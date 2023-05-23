@@ -1,0 +1,89 @@
+body{
+    text-align: center;                
+}
+p{
+    line-height: 25px;  
+    width: 70%;
+    margin: 0px auto;
+}
+.n1{
+    color: red;
+    font-family: 'Caveat', cursive;
+}
+.n2{
+    color: green;
+    font-family: 'Pacifico', cursive;
+}
+.n3{
+    color: grey;
+    font-family: 'Aladin', cursive;
+}
+.n4{
+    color: tomato;
+    font-family: 'Amita', cursive;
+}
+.n5{
+    color: violet;
+    font-family: 'Arizonia', cursive;
+}
+.n6{
+    color: olive;
+    font-family: 'Meddon', cursive;
+}
+.n7{
+    color: blue;
+    font-family: 'Delicious Handrawn', cursive;
+}
+.n8{
+    color: burlywood;
+    font-family: 'Euphoria Script', cursive;
+}
+.n9{
+    color: olivedrab;
+    font-family: 'Gamja Flower', cursive;
+}
+.n10{
+    color:aquamarine;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.n11{
+    color: teal;
+    font-family: 'Leckerli One', cursive;
+}
+.n12{
+    color: rebeccapurple;
+    font-family: 'Merienda', cursive;
+}
+.n13{
+    color: magenta;
+    font-family: 'Mynerve', cursive;
+}
+.n14{
+    color: palegreen;
+    font-family: 'Neucha', cursive;
+}
+.n15{
+    color: peru;
+    font-family: 'Norican', cursive;
+}
+.n16{
+    color: powderblue;
+    font-family: 'Sofia', cursive;
+}
+.n17{
+    color: brown;
+    font-family: 'Sriracha', cursive;
+}
+.n18{
+    color: rosybrown;
+    font-family: 'Style Script', cursive;
+}
+.n19{
+    color: saddlebrown;
+    font-family: 'The Girl Next Door', cursive;
+}
+.n20{
+    color: slateblue;
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+    
